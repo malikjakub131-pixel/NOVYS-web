@@ -1,26 +1,26 @@
 {
- "slug": "horky-novostavba",
- "title": "Horky",
- "place": "Horky, okres Žilina",
- "cats": [
-  "novostavby"
- ],
- "order": 32,
- "year": "2022",
- "hero": "assets/img/realizacie/horky-novostavba/04.jpg",
- "gallery": [
-  {
-   "image": "assets/img/realizacie/horky-novostavba/01.jpg"
-  },
-  {
-   "image": "assets/img/realizacie/horky-novostavba/02.jpg"
-  },
-  {
-   "image": "assets/img/realizacie/horky-novostavba/03.jpg"
-  },
-  {
-   "image": "assets/img/realizacie/horky-novostavba/04.jpg"
-  }
- ],
- "description": "Bungalov osadený na svahovitom pozemku, proces zakladania bol prispôsobený prudšiemu klesaniu terénu. Obvodový plášť bol realizovaný ako stĺpiková monolitická konštrukcia s výplňou z pálenej tehly. Strechu tvorí väzníkový krov s krytinou Tondach."
+  "place": "Hôrky, okres Žilina",
+  "slug": "horky-novostavba",
+  "order": 32,
+  "gallery": [
+    {
+      "image": "assets/img/realizacie/horky-novostavba/01.jpg"
+    },
+    {
+      "image": "assets/img/realizacie/horky-novostavba/02.jpg"
+    },
+    {
+      "image": "assets/img/realizacie/horky-novostavba/03.jpg"
+    },
+    {
+      "image": "assets/img/realizacie/horky-novostavba/04.jpg"
+    }
+  ],
+  "title": "Horky",
+  "hero": "assets/img/realizacie/horky-novostavba/04.jpg",
+  "description": "Bungalov osadený na svahovitom pozemku, proces zakladania bol prispôsobený prudšiemu klesaniu terénu. Obvodový plášť bol realizovaný ako stĺpiková monolitická konštrukcia s výplňou z pálenej tehly. Strechu tvorí väzníkový krov s krytinou Tondach.",
+  "year": "2022",
+  "cats": [
+    "novostavby"
+  ]
 }
