@@ -1,0 +1,17 @@
+{
+ "slug": "demanova",
+ "title": "Demänová",
+ "place": "Demänová, okres Liptovský Mikuláš",
+ "cats": [
+  "novostavby"
+ ],
+ "order": 45,
+ "year": "",
+ "hero": "assets/img/realizacie/demanova/01.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/demanova/01.jpg"
+  }
+ ],
+ "description": "Rekonštrukcia rodinného domu na apartmánový dom — obnova a revitalizácia fasády."
+}

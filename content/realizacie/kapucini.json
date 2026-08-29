@@ -1,0 +1,38 @@
+{
+ "slug": "kapucini",
+ "title": "Žilina",
+ "place": "Žilina — centrum",
+ "cats": [
+  "rekonstrukcie"
+ ],
+ "order": 27,
+ "year": "",
+ "hero": "assets/img/realizacie/kapucini/08.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/kapucini/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/kapucini/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/kapucini/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/kapucini/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/kapucini/05.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/kapucini/06.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/kapucini/07.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/kapucini/08.jpg"
+  }
+ ],
+ "description": "Celková rekonštrukcia strechy Kláštora Kapucínov v centre Žiliny — nahradenie poškodených častí krovu a nová krytina Tondach."
+}

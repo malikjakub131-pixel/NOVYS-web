@@ -1,0 +1,32 @@
+{
+ "slug": "straza",
+ "title": "Stráža",
+ "place": "Stráža, okres Žilina",
+ "cats": [
+  "novostavby"
+ ],
+ "order": 40,
+ "year": "2025",
+ "hero": "assets/img/realizacie/straza/06.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/straza/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/straza/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/straza/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/straza/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/straza/05.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/straza/06.jpg"
+  }
+ ],
+ "description": "Kompletná hrubá stavba rodinného domu — od zemných prác a základovej dosky, cez nosné murivo a stropy, až po krov a strechu."
+}

@@ -1,0 +1,29 @@
+{
+ "slug": "krasnany",
+ "title": "Krásňany",
+ "place": "Krásňany, okres Žilina",
+ "cats": [
+  "novostavby"
+ ],
+ "order": 31,
+ "year": "2022",
+ "hero": "assets/img/realizacie/krasnany/05.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/krasnany/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/krasnany/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/krasnany/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/krasnany/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/krasnany/05.jpg"
+  }
+ ],
+ "description": "Klasický rodinný dom postavený z pálenej tehly, s priznaným vyrezávaným krovom."
+}

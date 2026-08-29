@@ -1,0 +1,45 @@
+{
+ "slug": "trnove-3",
+ "title": "Trnové",
+ "place": "Trnové, Žilina",
+ "cats": [
+  "novostavby",
+  "opornemury"
+ ],
+ "order": 23,
+ "year": "2023",
+ "hero": "assets/img/realizacie/trnove-3/10.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/trnove-3/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-3/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-3/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-3/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-3/05.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-3/06.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-3/07.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-3/08.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-3/09.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-3/10.jpg"
+  }
+ ],
+ "description": "Novostavba rodinného domu, čiastočne na základoch pôvodnej pivnice, s prístavbou novej monolitickej konštrukcie. Strecha je riešená väzníkovým krovom s falcovanou krytinou. Rekonštrukcia na kľúč."
+}

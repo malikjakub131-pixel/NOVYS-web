@@ -1,0 +1,38 @@
+{
+ "slug": "opornymur-priemyselny-areal",
+ "title": "Žilina",
+ "place": "Žilina a okolie",
+ "cats": [
+  "opornemury"
+ ],
+ "order": 28,
+ "year": "2023",
+ "hero": "assets/img/realizacie/opornymur-priemyselny-areal/08.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/opornymur-priemyselny-areal/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/opornymur-priemyselny-areal/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/opornymur-priemyselny-areal/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/opornymur-priemyselny-areal/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/opornymur-priemyselny-areal/05.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/opornymur-priemyselny-areal/06.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/opornymur-priemyselny-areal/07.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/opornymur-priemyselny-areal/08.jpg"
+  }
+ ],
+ "description": "Oporný múr riešiaci úpravu terénu a stabilizáciu svahu — železobetónová konštrukcia navrhnutá na mieru pozemku."
+}

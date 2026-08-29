@@ -1,0 +1,32 @@
+{
+ "slug": "bytcica",
+ "title": "Bytčica",
+ "place": "Bytčica, Žilina",
+ "cats": [
+  "novostavby"
+ ],
+ "order": 38,
+ "year": "2025",
+ "hero": "assets/img/realizacie/bytcica/06.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/bytcica/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/bytcica/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/bytcica/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/bytcica/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/bytcica/05.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/bytcica/06.jpg"
+  }
+ ],
+ "description": "Na základoch sú použité monolitické nadzákladové steny, strecha je z dreveného krovu s nadkrokvovou izoláciou."
+}

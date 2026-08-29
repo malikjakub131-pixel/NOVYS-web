@@ -1,0 +1,23 @@
+{
+ "slug": "varin",
+ "title": "Varín",
+ "place": "Varín, okres Žilina",
+ "cats": [
+  "novostavby"
+ ],
+ "order": 44,
+ "year": "",
+ "hero": "assets/img/realizacie/varin/03.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/varin/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/varin/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/varin/03.jpg"
+  }
+ ],
+ "description": "Rodinný dom, čiastočne podpivničený. Na pivnicu boli použité monolitické steny, samotná stavba je murovaná z tehly Porotherm. Strecha je riešená ako klasický pultový krov s PVC krytinou."
+}

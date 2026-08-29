@@ -1,0 +1,35 @@
+{
+ "slug": "trnove-opornymur",
+ "title": "Trnové",
+ "place": "Trnové, Žilina",
+ "cats": [
+  "opornemury"
+ ],
+ "order": 29,
+ "year": "2023",
+ "hero": "assets/img/realizacie/trnove-opornymur/07.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/trnove-opornymur/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-opornymur/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-opornymur/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-opornymur/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-opornymur/05.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-opornymur/06.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-opornymur/07.jpg"
+  }
+ ],
+ "description": "Oporný múr riešiaci úpravu terénu a stabilizáciu svahu — železobetónová konštrukcia navrhnutá na mieru pozemku."
+}

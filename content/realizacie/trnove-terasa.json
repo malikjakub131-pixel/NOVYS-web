@@ -1,0 +1,20 @@
+{
+ "slug": "trnove-terasa",
+ "title": "Trnové",
+ "place": "Trnové, Žilina",
+ "cats": [
+  "inestavby"
+ ],
+ "order": 33,
+ "year": "2021",
+ "hero": "assets/img/realizacie/trnove-terasa/02.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/trnove-terasa/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-terasa/02.jpg"
+  }
+ ],
+ "description": "Doplnková realizácia — presná remeselná práca s dôrazom na detail a funkčnosť."
+}

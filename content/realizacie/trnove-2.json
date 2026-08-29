@@ -1,0 +1,41 @@
+{
+ "slug": "trnove-2",
+ "title": "Trnové",
+ "place": "Trnové, Žilina",
+ "cats": [
+  "novostavby"
+ ],
+ "order": 25,
+ "year": "2020",
+ "hero": "assets/img/realizacie/trnove-2/09.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/trnove-2/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-2/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-2/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-2/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-2/05.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-2/06.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-2/07.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-2/08.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/trnove-2/09.jpg"
+  }
+ ],
+ "description": "Bungalov s garážou, čiastočne podpivničený. Obvodové múry sú z tehly Porotherm. Pultová strecha je v nočnej časti riešená z drevených krokiev s nadkrokvovou izoláciou, v dennej časti domu väzníkovým krovom so zateplením z fúkaného drevného vlákna, krytinu tvorí falcovaný hliníkový plech. Na severnej strane bol postavený monolitický plot s dĺžkou 25 m."
+}

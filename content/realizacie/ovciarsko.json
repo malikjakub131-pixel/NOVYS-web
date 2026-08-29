@@ -1,0 +1,47 @@
+{
+ "slug": "ovciarsko",
+ "title": "Ovčiarsko",
+ "place": "Ovčiarsko, okres Žilina",
+ "cats": [
+  "novostavby"
+ ],
+ "order": 21,
+ "year": "2023",
+ "hero": "assets/img/realizacie/ovciarsko/11.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/ovciarsko/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/ovciarsko/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/ovciarsko/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/ovciarsko/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/ovciarsko/05.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/ovciarsko/06.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/ovciarsko/07.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/ovciarsko/08.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/ovciarsko/09.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/ovciarsko/10.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/ovciarsko/11.jpg"
+  }
+ ],
+ "description": "Prevzatá stavba — čiastočne podpivničený bungalov s obvodovými stenami z pálenej tehly."
+}

@@ -1,0 +1,32 @@
+{
+ "slug": "hajik",
+ "title": "Hájik",
+ "place": "Hájik, Žilina",
+ "cats": [
+  "novostavby"
+ ],
+ "order": 37,
+ "year": "2019",
+ "hero": "assets/img/realizacie/hajik/06.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/hajik/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/hajik/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/hajik/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/hajik/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/hajik/05.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/hajik/06.jpg"
+  }
+ ],
+ "description": "Trojpodlažný rodinný dom s monolitickými základmi a prístavbou pivnice, realizovaný s použitím PVC izolácií."
+}

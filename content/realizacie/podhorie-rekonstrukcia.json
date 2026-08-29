@@ -1,0 +1,32 @@
+{
+ "slug": "podhorie-rekonstrukcia",
+ "title": "Podhorie",
+ "place": "Podhorie, okres Žilina",
+ "cats": [
+  "rekonstrukcie"
+ ],
+ "order": 30,
+ "year": "2018",
+ "hero": "assets/img/realizacie/podhorie-rekonstrukcia/06.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/podhorie-rekonstrukcia/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/podhorie-rekonstrukcia/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/podhorie-rekonstrukcia/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/podhorie-rekonstrukcia/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/podhorie-rekonstrukcia/05.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/podhorie-rekonstrukcia/06.jpg"
+  }
+ ],
+ "description": "Dom postavený na pôvodných základoch staršieho rodinného domu, doplnených o nový spevnený betónový strop. Obvodové múry sú z tvárnic Porfix."
+}

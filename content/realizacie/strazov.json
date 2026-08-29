@@ -1,0 +1,29 @@
+{
+ "slug": "strazov",
+ "title": "Strážov",
+ "place": "Strážov, okres Žilina",
+ "cats": [
+  "novostavby"
+ ],
+ "order": 42,
+ "year": "2025",
+ "hero": "assets/img/realizacie/strazov/05.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/strazov/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/strazov/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/strazov/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/strazov/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/strazov/05.jpg"
+  }
+ ],
+ "description": "Rekonštrukcia rodinného domu s použitím väzníkového krovu. Ako fasádny obklad boli použité cementovláknité dosky EQUITONE."
+}

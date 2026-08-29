@@ -1,0 +1,29 @@
+{
+ "slug": "gbelany-2",
+ "title": "Gbeľany",
+ "place": "Gbeľany, okres Žilina",
+ "cats": [
+  "novostavby"
+ ],
+ "order": 41,
+ "year": "2025",
+ "hero": "assets/img/realizacie/gbelany-2/05.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/gbelany-2/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gbelany-2/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gbelany-2/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gbelany-2/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gbelany-2/05.jpg"
+  }
+ ],
+ "description": "Moderný dom stupňovito sa zvažujúci, využívajúci prirodzené klesanie terénu. Ako spoľahlivá ochrana stavby bola použitá PVC izolácia, okolo domu sú zhotovené chodníky z metličkového betónu. Strechu tvorí PVC krytina s kamienkovým zásypom."
+}

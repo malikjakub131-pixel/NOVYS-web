@@ -1,0 +1,50 @@
+{
+ "slug": "brodno",
+ "title": "Brodno",
+ "place": "Brodno, Žilina",
+ "cats": [
+  "novostavby"
+ ],
+ "order": 20,
+ "year": "2025",
+ "hero": "assets/img/realizacie/brodno/12.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/brodno/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/brodno/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/brodno/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/brodno/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/brodno/05.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/brodno/06.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/brodno/07.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/brodno/08.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/brodno/09.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/brodno/10.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/brodno/11.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/brodno/12.jpg"
+  }
+ ],
+ "description": "Kompletná hrubá stavba rodinného domu — od zemných prác a základovej dosky, cez nosné murivo a stropy, až po krov a strechu."
+}

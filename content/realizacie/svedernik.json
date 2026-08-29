@@ -1,0 +1,65 @@
+{
+ "slug": "svedernik",
+ "title": "Svederník",
+ "place": "Svederník, okres Žilina",
+ "cats": [
+  "novostavby"
+ ],
+ "order": 14,
+ "year": "2021",
+ "hero": "assets/img/realizacie/svedernik/17.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/svedernik/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/svedernik/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/svedernik/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/svedernik/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/svedernik/05.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/svedernik/06.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/svedernik/07.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/svedernik/08.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/svedernik/09.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/svedernik/10.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/svedernik/11.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/svedernik/12.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/svedernik/13.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/svedernik/14.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/svedernik/15.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/svedernik/16.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/svedernik/17.jpg"
+  }
+ ],
+ "description": "Jednoduchá jednopodlažná stavba s väzníkovým krovom. Ako tepelná izolácia bolo použité fúkané drevné vlákno, krytinu tvorí falcovaný hliníkový plech."
+}

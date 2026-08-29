@@ -1,0 +1,29 @@
+{
+ "slug": "horky-starsie",
+ "title": "Horky",
+ "place": "Horky, okres Žilina",
+ "cats": [
+  "novostavby"
+ ],
+ "order": 43,
+ "year": "",
+ "hero": "assets/img/realizacie/horky-starsie/05.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/horky-starsie/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/horky-starsie/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/horky-starsie/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/horky-starsie/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/horky-starsie/05.jpg"
+  }
+ ],
+ "description": "Pre nepriaznivé podložie boli namiesto základových pásov vŕtané šachtové piliere do hĺbky 3,6 m, na ktoré bol osadený monolitický základový pás s výškou 1 m."
+}

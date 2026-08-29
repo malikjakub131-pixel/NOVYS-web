@@ -1,0 +1,50 @@
+{
+ "slug": "sneznica",
+ "title": "Snežnica",
+ "place": "Snežnica, okres Žilina",
+ "cats": [
+  "novostavby"
+ ],
+ "order": 19,
+ "year": "2022",
+ "hero": "assets/img/realizacie/sneznica/12.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/sneznica/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/sneznica/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/sneznica/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/sneznica/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/sneznica/05.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/sneznica/06.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/sneznica/07.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/sneznica/08.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/sneznica/09.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/sneznica/10.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/sneznica/11.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/sneznica/12.jpg"
+  }
+ ],
+ "description": "Novostavba rodinného domu s čiastočným podpivničením monolitickou konštrukciou formou tzv. „bielej vane“, bez použitia ďalších izolácií. Strecha je realizovaná z dreveného krovu, na ktorom je nakotvená PVC krytina."
+}

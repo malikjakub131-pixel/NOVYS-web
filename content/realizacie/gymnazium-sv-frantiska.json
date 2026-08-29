@@ -1,0 +1,36 @@
+{
+ "slug": "gymnazium-sv-frantiska",
+ "title": "Žilina",
+ "place": "Žilina",
+ "cats": [
+  "novostavby",
+  "opornemury"
+ ],
+ "order": 36,
+ "year": "2025",
+ "hero": "assets/img/realizacie/gymnazium-sv-frantiska/07.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/gymnazium-sv-frantiska/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gymnazium-sv-frantiska/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gymnazium-sv-frantiska/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gymnazium-sv-frantiska/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gymnazium-sv-frantiska/05.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gymnazium-sv-frantiska/06.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gymnazium-sv-frantiska/07.jpg"
+  }
+ ],
+ "description": "Výstavba telocvične 7 m pod úrovňou terénu ako monolitická stavba s výplňou z tehlového muriva a väzníkovým, lepeným dreveným krovom. Realizácia na kľúč."
+}

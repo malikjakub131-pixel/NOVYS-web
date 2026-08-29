@@ -1,0 +1,74 @@
+{
+ "slug": "rosina",
+ "title": "Rosina",
+ "place": "Rosina, okres Žilina",
+ "cats": [
+  "novostavby"
+ ],
+ "order": 7,
+ "year": "2020",
+ "hero": "assets/img/realizacie/rosina/20.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/rosina/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/05.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/06.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/07.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/08.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/09.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/10.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/11.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/12.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/13.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/14.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/15.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/16.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/17.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/18.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/19.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/rosina/20.jpg"
+  }
+ ],
+ "description": "Rodinný dom realizovaný v pomerne prudkom svahu, podpivničený pomocou monolitickej konštrukcie. Okolo domu je zhotovený oporný múr s celkovou dĺžkou 55 m, čiastočne ako monolit a čiastočne pomocou debniacich tvárnic."
+}

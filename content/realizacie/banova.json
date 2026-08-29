@@ -1,0 +1,65 @@
+{
+ "slug": "banova",
+ "title": "Bánová",
+ "place": "Bánová, Žilina",
+ "cats": [
+  "novostavby"
+ ],
+ "order": 13,
+ "year": "2026",
+ "hero": "assets/img/realizacie/banova/17.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/banova/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/banova/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/banova/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/banova/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/banova/05.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/banova/06.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/banova/07.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/banova/08.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/banova/09.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/banova/10.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/banova/11.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/banova/12.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/banova/13.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/banova/14.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/banova/15.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/banova/16.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/banova/17.jpg"
+  }
+ ],
+ "description": "Rodinný trojpodlažný dom na pomerne malom pozemku, s monolitickými základmi čiastočne zapustenými do zeme. Strechu tvorí drevený krov podopretý oceľovou konštrukciou."
+}

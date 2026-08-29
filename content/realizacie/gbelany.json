@@ -1,0 +1,44 @@
+{
+ "slug": "gbelany",
+ "title": "Gbeľany",
+ "place": "Gbeľany, okres Žilina",
+ "cats": [
+  "novostavby"
+ ],
+ "order": 22,
+ "year": "2025",
+ "hero": "assets/img/realizacie/gbelany/10.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/gbelany/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gbelany/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gbelany/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gbelany/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gbelany/05.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gbelany/06.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gbelany/07.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gbelany/08.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gbelany/09.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/gbelany/10.jpg"
+  }
+ ],
+ "description": "Jednoduchý bungalov s väzníkovým krovom s rozpätím 14 m. Ako izolácia spodnej stavby bola použitá PVC fólia. Realizácia na kľúč."
+}

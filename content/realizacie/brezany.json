@@ -1,0 +1,38 @@
+{
+ "slug": "brezany",
+ "title": "Brezany",
+ "place": "Brezany, okres Žilina",
+ "cats": [
+  "novostavby"
+ ],
+ "order": 35,
+ "year": "2025",
+ "hero": "assets/img/realizacie/brezany/08.jpg",
+ "gallery": [
+  {
+   "image": "assets/img/realizacie/brezany/01.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/brezany/02.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/brezany/03.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/brezany/04.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/brezany/05.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/brezany/06.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/brezany/07.jpg"
+  },
+  {
+   "image": "assets/img/realizacie/brezany/08.jpg"
+  }
+ ],
+ "description": "Kompletná hrubá stavba rodinného domu — od zemných prác a základovej dosky, cez nosné murivo a stropy, až po krov a strechu."
+}

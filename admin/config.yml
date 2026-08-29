@@ -1,0 +1,61 @@
+backend:
+  name: git-gateway
+  branch: main
+
+publish_mode: simple
+media_folder: "assets/img/realizacie/{{slug}}"
+public_folder: "assets/img/realizacie/{{slug}}"
+
+collections:
+  - name: "realizacie"
+    label: "Realizácie"
+    label_singular: "Realizácia"
+    folder: "content/realizacie"
+    create: true
+    delete: true
+    slug: "{{fields.slug}}"
+    identifier_field: title
+    extension: "json"
+    format: "json"
+    summary: "{{order}} — {{title}} ({{place}})"
+    sortable_fields: ["order", "title"]
+    fields:
+      - label: "Technický názov (slug)"
+        name: "slug"
+        widget: "string"
+        hint: "Len malé písmená, číslice a pomlčky, bez medzier a diakritiky. Napr. novy-projekt. Po vytvorení už nemeňte."
+        pattern: ['^[a-z0-9]+(-[a-z0-9]+)*$', "Použite len malé písmená, číslice a pomlčky (napr. novy-projekt)"]
+      - label: "Názov stavby"
+        name: "title"
+        widget: "string"
+      - label: "Lokalita"
+        name: "place"
+        widget: "string"
+        hint: "Napr. Trnové, Žilina"
+      - label: "Kategórie"
+        name: "cats"
+        widget: "select"
+        multiple: true
+        options:
+          - { label: "Novostavby", value: "novostavby" }
+          - { label: "Rekonštrukcie", value: "rekonstrukcie" }
+          - { label: "Oporné múry", value: "opornemury" }
+          - { label: "Iné stavby", value: "inestavby" }
+      - label: "Poradie na stránke (nižšie číslo = vyššie/skôr)"
+        name: "order"
+        widget: "number"
+        value_type: "int"
+      - label: "Rok realizácie"
+        name: "year"
+        widget: "string"
+        required: false
+      - label: "Titulná fotka"
+        name: "hero"
+        widget: "image"
+      - label: "Popis realizácie"
+        name: "description"
+        widget: "text"
+      - label: "Fotogaléria"
+        name: "gallery"
+        widget: "list"
+        field: { label: "Fotka", name: "image", widget: "image" }
